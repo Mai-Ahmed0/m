@@ -1,3 +1,4 @@
+console.log('in my mind iam always the beast')
 // project 1
 let students = JSON.parse(localStorage.getItem("students")) || [];
 function renderstudents() {
